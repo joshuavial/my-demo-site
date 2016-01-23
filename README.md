@@ -10,3 +10,6 @@ How to publish a site
 6. `git commit -m "my files"`
 7. `git checkout -b gh-pages`
 8. `git push origin gh-pages`
+
+Make sure you have a file called index.html in your repository and then http://*your-user-name*.github.io/*project-name* should work
+

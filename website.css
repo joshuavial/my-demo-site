@@ -1,0 +1,22 @@
+body {
+  font-family: Arial;
+}
+h1 {
+  font-family: Verdana;
+}
+h2 {
+  font-family: monospace;
+}
+p {
+  color: green;
+  margin: 20px;
+  margin-top: 0px;
+  padding: 20px;
+}
+.special {
+  background-color: orange;
+}
+.left {
+  float: left;
+}
+
